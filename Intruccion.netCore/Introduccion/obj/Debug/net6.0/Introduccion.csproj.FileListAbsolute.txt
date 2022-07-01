@@ -1,0 +1,15 @@
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\bin\Debug\net6.0\Introduccion.exe
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\bin\Debug\net6.0\Introduccion.deps.json
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\bin\Debug\net6.0\Introduccion.runtimeconfig.json
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\bin\Debug\net6.0\Introduccion.dll
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\bin\Debug\net6.0\Introduccion.pdb
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.csproj.AssemblyReference.cache
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.AssemblyInfoInputs.cache
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.AssemblyInfo.cs
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.csproj.CoreCompileInputs.cache
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.dll
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\refint\Introduccion.dll
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.pdb
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\Introduccion.genruntimeconfig.cache
+D:\Git\Curso.NetCoreClase1\Intruccion.netCore\Introduccion\obj\Debug\net6.0\ref\Introduccion.dll
